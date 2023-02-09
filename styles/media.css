@@ -1,0 +1,709 @@
+@media only screen and (max-width:1366px) and (min-width:992px) {
+    #learn_more {
+        min-height: 340px
+    }
+
+    .learn_more_img img {
+        position: absolute;
+        left: 20px;
+        top: -76px;
+        width: 100%
+    }
+
+    .heading_1 {
+        font-size: 30px !important
+    }
+
+    .heading_2 {
+        font-size: 26px !important
+    }
+
+    .heading_3,
+    a,
+    p {
+        font-size: 14px !important
+    }
+
+    .heading_4 {
+        font-size: 18px !important
+    }
+
+    .isotop .button-group .button,
+    .subscribe_btn {
+        font-size: 18px
+    }
+
+    h5.custom_heading {
+        font-size: 20px !important
+    }
+
+    .hero_left h2,
+    .hero_left p {
+        margin-bottom: 32px
+    }
+
+    #about_us p {
+        margin-bottom: 46px !important
+    }
+
+    #newsletter input {
+        padding: 17px 50px
+    }
+
+    .subscribe_btn {
+        padding: 11px 15px
+    }
+
+    #newsletter button {
+        position: absolute;
+        top: 4px;
+        right: 5px
+    }
+
+    #footer .logo_social img {
+        margin-bottom: 17px
+    }
+
+    h4.footer_heading {
+        margin-bottom: 19px
+    }
+
+    #footer .social_btns {
+        margin-top: 30PX
+    }
+
+    #footer .social_btns svg {
+        height: 35px;
+        width: 35px
+    }
+
+    #footer .logo_social a {
+        margin-right: 15px
+    }
+
+    h1.big_font {
+        font-size: 36px
+    }
+}
+
+@media screen and (max-width:992px) {
+    #preloader img {
+        width: 225px;
+        height: auto
+    }
+
+    .gap {
+        height: 30px
+    }
+
+    .heading_1 {
+        font-size: 24px !important
+    }
+
+    .heading_2 {
+        font-size: 20px !important
+    }
+
+    .heading_3,
+    a {
+        font-size: 12px !important
+    }
+
+    .heading_4,
+    h5.custom_heading {
+        font-size: 16px !important
+    }
+
+    p {
+        font-size: 14px !important
+    }
+
+    .hero_left {
+        text-align: center;
+        max-width: none !important;
+        width: 100%;
+        margin-top: 20px
+    }
+
+    .hero_left h2 {
+        margin-bottom: 28px
+    }
+
+    #about_us .heading_2,
+    .hero_left p,
+    .isotop .button-group {
+        margin-bottom: 30px
+    }
+
+    #hero .main_img {
+        left: calc(37% - 55px)
+    }
+
+    .banner_img_group .tech {
+        display: none
+    }
+
+    #services .col-12:first-of-type,
+    #services .col-12:nth-of-type(2),
+    #services .col-12:nth-of-type(6) {
+        border-right: 1px dashed #cfcfcf
+    }
+
+    #services .col-12:nth-of-type(4) {
+        border-right: 1px dashed #cfcfcf;
+        border-left: 1px dashed #cfcfcf !important;
+        border-bottom: none
+    }
+
+    #process .process_icons {
+        height: 110px;
+        width: 110px
+    }
+
+    #process .first_flow {
+        right: -80px
+    }
+
+    #process .last_flow {
+        right: -87px
+    }
+
+    #process svg {
+        width: 100px
+    }
+
+    #process .second_process_elements {
+        max-width: 163px;
+        width: 100%;
+        margin: auto;
+        position: relative;
+        float: right
+    }
+
+    .about_us_images {
+        padding: 0
+    }
+
+    #about_us p {
+        margin-bottom: 24px !important
+    }
+
+    #learn_more {
+        min-height: 500px
+    }
+
+    .learn_more_img img {
+        position: inherit;
+        left: 27%;
+        transform: translate(-49%, -1%);
+        width: 350px;
+        top: -30px
+    }
+
+    #learn_more .heading_1 {
+        margin-bottom: 16px
+    }
+
+    .learn_text {
+        margin-top: -100px
+    }
+
+    #client_say .comment_grid {
+        margin-left: 55px;
+        margin-right: 35px
+    }
+
+    #client_say .comment {
+        margin-top: 55px;
+        width:90%;
+        margin-left: auto;
+    }
+
+    #client_say .comment_slider .slick-list.draggable {
+        margin-left: 0
+    }
+
+    #client_say .comment_text {
+        padding-bottom: 12px;
+        padding-top: 32px
+    }
+
+    #client_say .comment img {
+        width: 48px;
+        height: 45px;
+        top: -12px;
+        left: -12px
+    }
+
+    #client_say .comment_text p {
+        max-width: 100%;
+        color: #838383
+    }
+
+    #client_say .comment_slider_elements:nth-of-type(odd),
+    .all_missions .missions:nth-of-type(2) .missions_left {
+        padding-left: 0
+    }
+
+    #client_say .comment_slider_elements:nth-of-type(2n) {
+        padding-right: 0
+    }
+
+    #newsletter input {
+        padding: 17px 50px
+    }
+
+    .subscribe_btn {
+        padding: 11px 15px;
+        font-size: 18px
+    }
+
+    #newsletter button {
+        position: absolute;
+        top: 4px;
+        right: 5px
+    }
+
+    #newsletter input::placeholder {
+        font-size: 16px
+    }
+
+    #footer .logo_social img {
+        margin-bottom: 17px
+    }
+
+    h4.footer_heading {
+        margin-bottom: 19px
+    }
+
+    #footer .social_btns {
+        margin-top: 30PX
+    }
+
+    #footer .social_btns svg {
+        height: 35px;
+        width: 35px
+    }
+
+    #footer .logo_social a {
+        margin-right: 7.5px;
+        margin-left: 7.5px
+    }
+
+    .top_page_gap {
+        height: 40px
+    }
+
+    .heading_and_filter .filter select {
+        max-width: 412px;
+        width: 90%;
+        padding: 8px 26px
+    }
+
+    .about_portfolio .info {
+        max-width: 396px;
+        width: 100%;
+        margin: 50px auto 40px;
+        box-shadow: 0 0 5px rgb(8 91 216 / 7%);
+        border-radius: 0 0 5px 5px;
+        padding: 43px 17px
+    }
+
+    h1.big_font {
+        font-size: 30px
+    }
+
+    .isotop .button-group .button {
+        font-size: 16px
+    }
+
+    .isotop .button_and_heading {
+        display: initial;
+        text-align: center
+    }
+}
+
+@media screen and (max-width:768px) {
+
+    #footer .logo_social,
+    #learn_more,
+    .case_banner_left,
+    .heading_and_filter h2,
+    .map .stats,
+    .result_numbers,
+    p.mission_details {
+        text-align: center
+    }
+
+    .navbar-brand img {
+        height: 34px
+    }
+
+    #hero .main_img {
+        left: calc(37% - 109px)
+    }
+
+    .blue_btn {
+        padding: 10px 16.5px !important
+    }
+
+    .border_btn {
+        padding: 9px 13.5px
+    }
+
+    #services .col-12:nth-of-type(5) {
+        border-right: 1px dashed #cfcfcf
+    }
+
+    #process svg {
+        width: 125px
+    }
+
+    #process .first_flow {
+        top: 88px;
+        transform: rotate(40deg)
+    }
+
+    #process .col-lg-4:nth-of-type(2) {
+        margin-top: 0
+    }
+
+    #process .last_flow {
+        right: 10px;
+        top: 351px;
+        transform: rotate(-42deg)
+    }
+
+    #process .process_icons img {
+        height: 36px;
+        width: 36px
+    }
+
+    #counter .counter_text span:nth-of-type(2) {
+        font-size: 12px
+    }
+
+    #counter {
+        padding: 40px 0
+    }
+
+    #choose .choose_elements,
+    #choose .col-sm-12:first-of-type .choose_elements,
+    #choose .col-sm-12:nth-of-type(2) .choose_elements {
+        margin-bottom: 20px
+    }
+
+    #choose .choose_text h4 {
+        margin-bottom: 10px
+    }
+
+    #about_us p,
+    #footer .logo_social img,
+    .missoin_header,
+    .portfolio,
+    .portfolio_list .portfolio:nth-of-type(3),
+    .project_showcase h2,
+    .results .result_numbers p {
+        margin-bottom: 30px
+    }
+
+    #choose .choose_text {
+        margin-left: 14px
+    }
+
+    #choose .choose_icons img {
+        height: 20px;
+        width: 23px
+    }
+
+    #about_us p {
+        margin-top: 30px;
+        line-height: 19.52px;
+        text-align: justify
+    }
+
+    #learn_more {
+        margin-top: 50px;
+        min-height: 450px
+    }
+
+    .learn_text {
+        margin-top: -130px
+    }
+
+    #learn_more .learn_btn {
+        padding: 8px 16px
+    }
+
+    #client_say .slick-dots {
+        margin: 22px auto auto;
+        padding-left: 0px;
+    }
+
+    #client_say .slick-dots button {
+        height: 8px;
+        width: 8px
+    }
+
+    h4.footer_heading {
+        margin-bottom: 19px
+    }
+
+    .missions_left h3.heading_3 {
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 15px
+    }
+
+    .missions .mission_number img {
+        margin-right: 0;
+        height: 20px;
+        width: 20px
+    }
+
+    .mission_stats {
+        padding-left: 0;
+        max-width: inherit
+    }
+
+    .business .accordion-button,
+    .mission_no h3 {
+        font-size: 14px
+    }
+
+    .portfolio_list h5 {
+        margin-top: 15px;
+        margin-bottom: 10px
+    }
+
+    .heading_and_filter h2 {
+        margin-bottom: 24px
+    }
+
+    .heading_and_filter .filter {
+        justify-content: center
+    }
+
+    .pagination {
+        margin-bottom: 40px
+    }
+
+    .map {
+        min-height: 200px;
+        background-position: bottom
+    }
+
+    .about_us_hero h2 {
+        max-width: 329px;
+        width: 100%
+    }
+
+    .map .clients span:nth-of-type(2) {
+        display: inline-block
+    }
+
+    .achivements {
+        padding: 60px 0;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .missoin_header p {
+        max-width: 346px;
+        width: 100%;
+        margin: auto
+    }
+
+    p.mission_details {
+        max-width: 305px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .get_started {
+        padding-top: 124px;
+        padding-bottom: 64px;
+        background-image: url('/images/about_us/mob_bg_2.webp');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-origin: center
+    }
+
+    .case_portfolio_bg,
+    .portfolio_bg {
+        min-height: 150px
+    }
+
+    .portfolio_desc h5 {
+        margin-bottom: 16px
+    }
+
+    .project {
+        padding: 0 5px
+    }
+
+    .projects_slider h3 {
+        font-size: 16px !important
+    }
+
+    .isotop .button-group .button {
+        font-size: 12px;
+        margin: 11px 0
+    }
+
+    .button-group.filters-button-group {
+        max-width: 290px;
+        margin: auto
+    }
+
+    h1.big_font {
+        font-size: 24px
+    }
+
+    .case_banner img {
+        width: 70%
+    }
+
+    .isotop {
+        margin: 45px 0
+    }
+
+    .case_banner_left .theme_fat_btn {
+        padding: 10px 25px
+    }
+
+    .case_banner_left p {
+        margin-bottom: 27px
+    }
+
+    .contact_right {
+        width: 100%;
+        margin-left: initial
+    }
+
+    button.theme_fat_btn {
+        padding: 10px 30px;
+        margin-top: 20px
+    }
+
+    .contact_us form input,
+    .contact_us form textarea {
+        padding: 10px 40px
+    }
+
+    .contact_us form svg {
+        top: 10px;
+        left: 8px
+    }
+
+    #hero .banner_img_group {
+        min-height: 320px
+    }
+
+    #search_modal .search-wrapper.active .input-holder {
+        width: 245px
+    }
+
+    #search_modal .search-wrapper .nav_search_close {
+        top: -30px;
+        width: 25px;
+        left: 50%;
+        transform: translate(10px, 10px);
+        margin-top: 50px
+    }
+
+    #search_modal .search-wrapper.active .nav_search_close {
+        top: 60%;
+        left: 40%
+    }
+
+    #companies {
+        min-height: 80px;
+        background: #f9f9f9;
+        padding: .5px 0
+    }
+
+    #counter .counter_img {
+        margin-right: 0
+    }
+
+    #counter .counter_elements {
+        width: 100%;
+        display: inline-block !important
+    }
+
+    #counter .col-4 {
+        width: 85px;
+        margin: auto
+    }
+
+    #services .service {
+        padding: 15px 0
+    }
+
+    #services .service_col:hover .service_icon {
+        transform: scale(1)
+    }
+
+    #process .first_flow {
+        right: -158px
+    }
+
+    .learn_more_img img {
+        top: -90px;
+        position: inherit;
+        left: -3%;
+        transform: translate(-50%, 0);
+        width: 80%
+    }
+
+    #client_say .comment_grid {
+        margin-left: 8px;
+        margin-right: 2px
+    }
+
+    #client_say .comment_text {
+        padding-bottom: 5px;
+        padding-top: 12px
+    }
+
+    #client_say .comment {
+        width: 90%;
+        margin-top: 30px;
+        border-radius: 5px;
+        padding-right: 10px;
+        padding-bottom: 10px
+    }
+
+    #newsletter input {
+        padding: 8px 20px;
+        margin-top: 45px
+    }
+
+    .subscribe_btn {
+        padding: 11px 10px;
+        font-size: 10px
+    }
+
+    #newsletter button {
+        position: absolute;
+        top: 1px;
+        right: 2px
+    }
+
+    #newsletter input::placeholder {
+        font-size: 12px
+    }
+
+    span.log_in_text {
+        display: none
+    }
+
+    #footer .copy_write_text {
+        font-size: 10px;
+        padding-bottom: 14px
+    }
+}

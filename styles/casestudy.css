@@ -1,0 +1,86 @@
+.case_study h3, .isotop h2 {
+    text-transform: capitalize
+}
+
+.case_banner_left h1 {
+    line-height: 140%;
+    color: #312e49;
+    margin-bottom: 15px
+}
+
+.case_banner_left p {
+    opacity: .5;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #312e49;
+    margin-bottom: 57px
+}
+
+.case_banner_left .case_banner h1.big_font, .case_study a, .case_study h3, .case_study p {
+    line-height: 140%;
+    color: #312e49;
+    font-style: normal
+}
+
+.case_banner .row {
+    min-height: 484px;
+    align-items: center
+}
+
+.case_banner_left .case_banner h1.big_font {
+    font-weight: 700;
+    font-size: 48px
+}
+
+.case_banner_left .theme_fat_btn {
+    margin-top: 57px
+}
+
+.isotop {
+    margin-top: 96px;
+    margin-bottom: 90px
+}
+
+.isotop h2 {
+    margin-bottom: 40px
+}
+
+.case_study h3 {
+    font-weight: 600;
+    font-size: 16px;
+    max-width: 273px;
+    width: 100%
+}
+
+ .case_study a, .case_study p {
+    font-weight: 600;
+    font-size: 12px;
+    opacity: .5;
+    margin-top: 24px;
+    text-decoration: none
+}
+
+.case_study p.title {
+    margin-top: 5px;
+    margin-bottom: 10px
+}
+
+.isotop .button_and_heading {
+    display: flex;
+    justify-content: space-between
+}
+
+.isotop .button_and_heading p {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    color: #085bd8;
+    margin-bottom: 15px
+}
+
+.isotop .button-group {
+    margin-top: 20px
+}

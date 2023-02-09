@@ -22,7 +22,7 @@ function DetailsSection({data}) {
        
        
                     <div className="case_portfolio_bg" 
-                    style={data.previewImage === '' ?  {backgroundImage:`url('../../images/default.jfif')`} :  {backgroundImage:`url(${`../../images/${folderName}/${data.previewImage}`})`}}>
+                    style={data.previewImage === '' ?  {backgroundImage:`url('/public/images/default.jfif')`} :  {backgroundImage:`url(${`../../images/${folderName}/${data.previewImage}`})`}}>
                     </div>
     
                     <div className="about_portfolio">

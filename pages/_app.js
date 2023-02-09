@@ -26,8 +26,8 @@ function MyApp({ Component, pageProps }) {
     <main id="main">
       <NavBar isClicked={isClicked} />
       <SearchModal isClicked={isClicked} isActive={active}   />
-      <Component {...pageProps} />
-      <Footer /> 
+     <Component {...pageProps} />
+       <Footer /> 
     </main>
   );
 }
